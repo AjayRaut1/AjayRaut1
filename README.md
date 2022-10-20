@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-🎓 I am Ajay Raut, a Front End Web Developer (specializing in React Applications) and a Top Rated Freelancer on Upwork. I am also pursuing my Bachelor in Computer Science & Engineering from Sinhgad College of Engineering and will graduate in mid-2024.
+🎓 I am Ajay Raut, a Front End Web Developer (specializing in React Applications) . I am also pursuing my Bachelor in Computer Science & Engineering from Sinhgad College of Engineering and will graduate in mid-2024.
 
 👨‍💻 I enjoy contributing to Open Source Projects and have contributed to several. I am really enthusiastic about learning new technology. Till 2022, I learned Kotlin, Android Development, Frontend Architecture and Blockchain development & DApps. 
 
@@ -72,7 +72,7 @@
 
 ## 🖥️ Workspace Setup
 
-![Ryzen 7 3750H](https://img.shields.io/badge/Ryzen 7 3750H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Ryzen 7 3750H](https://img.shields.io/badge/Ryzen_7_3750H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![NVIDIA GTX-1650](https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VS-Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
