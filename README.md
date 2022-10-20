@@ -15,53 +15,45 @@ Here are some ideas to get you started:
 🚀 About Me
 🎓 I am Ajay Raut, a Front End Web Developer (specializing in React Applications) and a Top Rated Freelancer on Upwork. I am also pursuing my Bachelor in Computer Science & Engineering from Sinhgad College of Engineering and will graduate in mid-2024.
 
-👨‍💻 I enjoy contributing to Open Source Projects and have contributed to several. I am really enthusiastic about learning new technology. In 2021, I learned Next.js, Progressive Web App (PWA), GraphQL, Micro-Frontend Architecture and Blockchain development & DApps. I got started with Freelancing and Blogging quite recently and made a name for myself.
+👨‍💻 I enjoy contributing to Open Source Projects and have contributed to several. I am really enthusiastic about learning new technology. Till 2022, I learned Kotlin, Android Development, Frontend Architecture and Blockchain development & DApps. 
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from piano, lawn tenis , and touch typing(65WPM) to some whacky ones like writing with my left hand.
 
 📚 I also love reading books on personal development & watching financial literacy. My favorite ones are The Compound Effect by Darren Hardy in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
 
-🏅 Achievements
-🤝 Hacktober Fest Par for adding quality pull requests at Hacktober Fest 2022 (October 2022)
-🥉 5th Runner up at Hackathon Competition at SITS (October 2022)
+🏅 Achievements <br>
+🤝 Hacktober Fest Par for adding quality pull requests at Hacktober Fest 2022 (October 2022) <br>
+🥉 5th Runner up at Hackathon Competition at SITS (October 2022) <br>
 
-🛠️ Skills
-Languages
+🛠️ Skills<br>
+Languages<br>
+c++ java javascript python kotlin <br><br>
 
-c++ java javascript python kotlin 
+Front-End Development<br>
+next react tailwind-css html css bootstrap jquery<br><br>
 
-Front-End Development
+Block-Chain Development<br>
+ethereum web3 solidity spearon<br><br>
 
-next react tailwind-css html css bootstrap jquery
+Backend as a Service (BaaS)<br>
+firebase vercel heroku netlify<br><br>
 
-Block-Chain Development
+Design Tools<br>
+adobe-xd figma canva<br><br>
 
-ethereum web3 solidity spearon
+Testing<br>
+mocha jest<br><br>
 
-Backend as a Service (BaaS)
+🖥️ Workspace Setup<br>
+Ryzen 7 3750H GTX-1650 Windows VS-Code<br><br>
 
-firebase vercel heroku netlify
+Want to read more? Check out all the blogs<br>
 
-Design Tools
-
-adobe-xd figma canva
-
-Testing
-
-mocha jest
-
-🖥️ Workspace Setup
-
-Ryzen 7 3750H GTX-1650 Windows VS-Code
-
-Want to read more? Check out all the blogs
-
-📈 Stats
-
+📈 Stats<br>
 profile trophies
 
-Ajay Raut's GitHub Stats
+Ajay Raut's GitHub Stats<br>
 visitors
 
 🔗 Links
