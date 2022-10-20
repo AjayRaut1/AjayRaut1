@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--
-**AjayRaut1/AjayRaut1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -30,31 +28,42 @@ Here are some ideas to get you started:
 
 🛠️ Skills
 Languages
+
 c++ java javascript python kotlin 
 
 Front-End Development
+
 next react tailwind-css html css bootstrap jquery
 
 Block-Chain Development
+
 ethereum web3 solidity spearon
 
 Backend as a Service (BaaS)
+
 firebase vercel heroku netlify
 
 Design Tools
+
 adobe-xd figma canva
 
 Testing
+
 mocha jest
 
 🖥️ Workspace Setup
+
 Ryzen 7 3750H GTX-1650 Windows VS-Code
 
 Want to read more? Check out all the blogs
 
 📈 Stats
+
 profile trophies
+
 Ajay Raut's GitHub Stats
 visitors
+
 🔗 Links
+
 portfolio resume upwork linked-in dev.to github medium gmail instagram 
