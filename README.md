@@ -12,7 +12,7 @@
 
 
 ## 🏅 Achievements
--   🤝 Hacktober Fest Par for adding quality pull requests at Hacktober Fest 2022 (October 2022) <br>
+-   🤝 Hacktober Fest Winner for adding quality pull requests at Hacktober Fest 2022 (October 2022) <br>
 -   🥇 5th Runner up at Hackathon Competition at SITS (October 2022) <br>
 
 ## 🛠️ Skills
