@@ -34,7 +34,6 @@
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
@@ -72,7 +71,7 @@
 
 ## 🖥️ Workspace Setup
 
-![Ryzen 7 3750H](https://img.shields.io/badge/Ryzen_7_3750H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Ryzen 7 3750H](https://img.shields.io/badge/Ryzen_7_3750H-0071C5?style=for-the-badge&logo=Ryzen&logoColor=white)
 ![NVIDIA GTX-1650](https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VS-Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
