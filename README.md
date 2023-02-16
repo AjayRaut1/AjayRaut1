@@ -79,7 +79,7 @@
 
 Want to read more?<br>
 ### That's it about me ,for more info Checkout **Personal website** <br>👇👇👇
-**[◉/_\◉](https://ajayraut1.github.io/Resume/)**
+**[◉/  \◉](https://portfolio-github-io-d3edfd.spheron.app/)**
 
 ## 📈 Stats
 
