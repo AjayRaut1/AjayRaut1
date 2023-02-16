@@ -2,13 +2,13 @@
 
 
 ## 🚀 About Me
-🎓 I am Ajay Raut, a Front End Web Developer (specializing in React Applications) . I am also pursuing my Bachelor in Computer Science & Engineering from Sinhgad College of Engineering and will graduate in mid-2024.
+🎓 I am Ajay Raut, and I am a Full Stack Web Developer (specializing in ReactJs Applications (frontend) , NodeJs (for backend) , MongoDB for Cloud DataBase ) . I am also pursuing my Bachelor in Computer Science & Engineering from Sinhgad College of Engineering and will graduate in mid-2024.
 
-👨‍💻 I enjoy contributing to Open Source Projects and have contributed to several. I am really enthusiastic about learning new technology. Till 2022, I learned Kotlin, Android Development, Frontend Architecture and Blockchain development & DApps. 
+👨‍💻 I enjoy contributing to Open Source Projects and have contributed to several. I am really enthusiastic about learning new technology. Till 2022, I learned Kotlin, Android Development, Frontend Architecture and Blockchain development. 
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from Piano , Lawn Tennis , and touch typing(65WPM) to some whacky ones like writing with my left hand.
 
-📚 I also love reading books on personal development & watching financial literacy. My favorite ones are The Compound Effect by Darren Hardy in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
+📚 I also love reading books on personal development & watching financial literacy. My favorite ones are Atomic Habits by James Clear in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
 
 ## 🏅 Achievements
