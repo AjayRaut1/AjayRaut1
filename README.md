@@ -70,7 +70,6 @@ Natural Language Processing -->
 <!-- ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white) -->
 
 ### Framworks<p>
-	[![Numpy](https://img.shields.io/badge/Numpy-%230000FF.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pytorch.png" alt="PyTorch" width="110" height="35" />&nbsp; -->
