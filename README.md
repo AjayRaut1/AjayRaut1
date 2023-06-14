@@ -2,7 +2,7 @@
 
 # Hola, I'm Ajay ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-
+<hr>
 ## 🚀 About Me
 ### AI & ML Enthusiast | Full Stack (MERN) Developer | Android Adventurer 🎮🌐📱
 👋 Hey there! I'm Ajay Raut, and I'm a big fan of PlayerUnknown's Battlegrounds (PUBG) and all things tech! I love exploring the exciting worlds of Artificial Intelligence (AI) and Machine Learning (ML). It's like having superpowers to do really cool things!
@@ -19,14 +19,16 @@
 
 📫 Want to join forces on this epic journey? Let's connect on LinkedIn and have a chat about AI, ML, Full Stack development, or any other tech adventures we can embark on!
 
+<hr>
 ## 🏅 Achievements
 -   🤝 Hacktober Fest Winner for adding quality pull requests at Hacktober Fest 2022 (October 2022) <br>
 -   🥇 1st Ranked Winner of Axie Infinity Tournament (Won Rs 30,000 Cash Prize) <br>
 -   🥇 5th Runner up at Hackathon Competition at SITS (October 2022) <br>
 
-## 🛠️ Skills
+<hr>
+## 🛠️ Skills <br>
 
-### Languages
+### Languages <br>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=yellow)
@@ -37,7 +39,7 @@
 ### AI-ML-Data Science
 Natural Language Processing -->
 
-### Front-End Development 🎨
+### Front-End Development 🎨 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -69,7 +71,7 @@ Natural Language Processing -->
 <!-- ### Cross Platform Development <br> -->
 <!-- ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white) -->
 
-<h3> Framworks </h3> <p>
+<h3> Framworks </h3> <br> <p>
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pytorch.png" alt="PyTorch" width="110" height="35" />&nbsp; -->
@@ -80,7 +82,7 @@ Natural Language Processing -->
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp; -->
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp; -->
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p>
-<h3> Software Packages </h3> <p>
+<h3> Software Packages </h3> <br> <p>
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/gitlab.svg" alt="GitLab" width="40" height="40" />&nbsp; -->
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/zeppelin.png" alt="Zeppelin" width="40" height="40" />&nbsp;/ -->
@@ -89,8 +91,10 @@ Natural Language Processing -->
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/eclipse.svg" alt="eclipse" width="40" height="40" />&nbsp;
 <!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp; -->
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;</p>
+<br>
 
-### Design Tools
+<hr>
+### Design Tools <br>
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 <!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
@@ -101,7 +105,8 @@ Natural Language Processing -->
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) -->
 
-## 🖥️ Workspace Setup
+<hr>
+## 🖥️ Workspace Setup <br>
 
 ![Ryzen 7 3750H](https://img.shields.io/badge/Ryzen_7_3750H-0071C5?style=for-the-badge&logo=Ryzen&logoColor=white)
 ![NVIDIA GTX-1650](https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -113,7 +118,8 @@ Want to read more?<br>
 ### That's it about me ,for more info Checkout **Personal website** <br>👇👇👇
 **[◉/  \◉](https://portfolio-github-io-d3edfd.spheron.app/)**
 
-## 📈 Stats
+<hr>
+## 📈 Stats <br>
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AjayRaut1&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
@@ -123,7 +129,8 @@ Want to read more?<br>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=AjayRaut1.AjayRaut1" alt="visitors">
 </div>
 
-## 🔗 Links
+<hr>
+## 🔗 Links <br>
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://portfolio-github-io-d3edfd.spheron.app/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ajay-raut-2a9696208/)
