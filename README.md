@@ -64,13 +64,13 @@ Natural Language Processing
 <!-- ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white) -->
 
 ### Frameworks <br>
+<!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp; -->
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp;
-<!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp; -->
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p>
-	<h4>Software Packages</h4><p>
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;
+### Software Packages <br> <p>
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/sagemaker.png" alt="Sagemaker" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/netbeans.svg" alt="Netbeans" width="50" height="50" />&nbsp;
