@@ -72,22 +72,22 @@ Natural Language Processing
 <h4> Frameworks</h4><p>
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pytorch.png" alt="PyTorch" width="110" height="35" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pyspark.png" alt="PySpark" width="110" height="50" />&nbsp;
+<!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pytorch.png" alt="PyTorch" width="110" height="35" />&nbsp; -->
+<!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pyspark.png" alt="PySpark" width="110" height="50" />&nbsp; -->
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp;
+<!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp; -->
+<!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp; -->
+<!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp; -->
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p>
 	<h4>Software Packages</h4><p>
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/gitlab.svg" alt="GitLab" width="40" height="40" />&nbsp;
+<!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/gitlab.svg" alt="GitLab" width="40" height="40" />&nbsp; -->
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/zeppelin.png" alt="Zeppelin" width="40" height="40" />&nbsp;
+<!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/zeppelin.png" alt="Zeppelin" width="40" height="40" />&nbsp;/ -->
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/sagemaker.png" alt="Sagemaker" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/netbeans.svg" alt="Netbeans" width="50" height="50" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/eclipse.svg" alt="eclipse" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp;
+<!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp; -->
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;</p>
 
 ### Design Tools
