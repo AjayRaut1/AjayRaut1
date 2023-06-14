@@ -4,14 +4,21 @@
 
 
 ## 🚀 About Me
-🎓 I am Ajay Raut, and I am a Full Stack Web Developer (specializing in ReactJs Applications (frontend) , NodeJs (for backend) , MongoDB for Cloud DataBase ) . I am also pursuing my Bachelor in Computer Science & Engineering from Sinhgad College of Engineering and will graduate in mid-2024.
+Ajay Raut
+AI & ML Enthusiast | Full Stack (MERN) Developer | Android Adventurer 🎮🌐📱
+👋 Hey there! I'm Ajay Raut, and I'm a big fan of PlayerUnknown's Battlegrounds (PUBG) and all things tech! I love exploring the exciting worlds of Artificial Intelligence (AI) and Machine Learning (ML). It's like having superpowers to do really cool things!
 
-👨‍💻 I enjoy contributing to Open Source Projects and have contributed to several. I am really enthusiastic about learning new technology. Till 2022, I learned Kotlin, Android Development, Frontend Architecture and Blockchain development. 
+🎓 I'm currently studying Computer Science & Engineering at Sinhgad College of Engineering. It's like being in a video game, where I'll level up and graduate in mid-2024! Along my journey, I've learned how to build awesome websites using the MERN (MongoDB, Express, React, Node.js) stack. It's like building a website with different tools and making it look really cool!
+
+📱 Besides that, I've also had some fun adventures in Android development. While I'm mostly into AI, ML, and Full Stack development, I can't resist the excitement of exploring the Android world and creating cool apps!
+
+🌱 I'm always leveling up my skills in AI, ML, and Full Stack development. I think these powers can make a big impact and change the world. Let's team up and create some amazing things for people to enjoy!
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from Piano , Lawn Tennis , and touch typing(65WPM) to some whacky ones like 75 Hard Challenge.
 
 📚 I also love reading books on personal development & watching financial literacy. My favorite ones are The Almanack Of Naval Ravikant by Eric Jorgenson in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
+📫 Want to join forces on this epic journey? Let's connect on LinkedIn and have a chat about AI, ML, Full Stack development, or any other tech adventures we can embark on!
 
 ## 🏅 Achievements
 -   🤝 Hacktober Fest Winner for adding quality pull requests at Hacktober Fest 2022 (October 2022) <br>
