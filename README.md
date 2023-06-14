@@ -4,8 +4,7 @@
 
 
 ## 🚀 About Me
-Ajay Raut
-AI & ML Enthusiast | Full Stack (MERN) Developer | Android Adventurer 🎮🌐📱
+### AI & ML Enthusiast | Full Stack (MERN) Developer | Android Adventurer 🎮🌐📱
 👋 Hey there! I'm Ajay Raut, and I'm a big fan of PlayerUnknown's Battlegrounds (PUBG) and all things tech! I love exploring the exciting worlds of Artificial Intelligence (AI) and Machine Learning (ML). It's like having superpowers to do really cool things!
 
 🎓 I'm currently studying Computer Science & Engineering at Sinhgad College of Engineering. It's like being in a video game, where I'll level up and graduate in mid-2024! Along my journey, I've learned how to build awesome websites using the MERN (MongoDB, Express, React, Node.js) stack. It's like building a website with different tools and making it look really cool!
