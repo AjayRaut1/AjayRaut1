@@ -3,6 +3,7 @@
 # Hola, I'm Ajay ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 <hr>
+
 ## 🚀 About Me
 ### AI & ML Enthusiast | Full Stack (MERN) Developer | Android Adventurer 🎮🌐📱
 👋 Hey there! I'm Ajay Raut, and I'm a big fan of PlayerUnknown's Battlegrounds (PUBG) and all things tech! I love exploring the exciting worlds of Artificial Intelligence (AI) and Machine Learning (ML). It's like having superpowers to do really cool things!
@@ -20,12 +21,14 @@
 📫 Want to join forces on this epic journey? Let's connect on LinkedIn and have a chat about AI, ML, Full Stack development, or any other tech adventures we can embark on!
 
 <hr>
+
 ## 🏅 Achievements
 -   🤝 Hacktober Fest Winner for adding quality pull requests at Hacktober Fest 2022 (October 2022) <br>
 -   🥇 1st Ranked Winner of Axie Infinity Tournament (Won Rs 30,000 Cash Prize) <br>
 -   🥇 5th Runner up at Hackathon Competition at SITS (October 2022) <br>
 
 <hr>
+
 ## 🛠️ Skills <br>
 
 ### Languages <br>
@@ -38,8 +41,9 @@
 <!-- 
 ### AI-ML-Data Science
 Natural Language Processing -->
+<hr>
 
-### Front-End Development 🎨 <br>
+<h3> Front-End Development </h3>🎨 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -94,6 +98,7 @@ Natural Language Processing -->
 <br>
 
 <hr>
+
 ### Design Tools <br>
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -106,6 +111,7 @@ Natural Language Processing -->
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) -->
 
 <hr>
+
 ## 🖥️ Workspace Setup <br>
 
 ![Ryzen 7 3750H](https://img.shields.io/badge/Ryzen_7_3750H-0071C5?style=for-the-badge&logo=Ryzen&logoColor=white)
@@ -119,6 +125,7 @@ Want to read more?<br>
 **[◉/  \◉](https://portfolio-github-io-d3edfd.spheron.app/)**
 
 <hr>
+
 ## 📈 Stats <br>
 
 <div align="center">
