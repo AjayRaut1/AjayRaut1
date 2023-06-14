@@ -10,7 +10,7 @@
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from Piano , Lawn Tennis , and touch typing(65WPM) to some whacky ones like 75 Hard Challenge.
 
-📚 I also love reading books on personal development & watching financial literacy. My favorite ones are Atomic Habits by James Clear in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
+📚 I also love reading books on personal development & watching financial literacy. My favorite ones are The Almanack Of Naval Ravikant by Eric Jorgenson in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
 
 ## 🏅 Achievements
